@@ -2,7 +2,7 @@
  *
  * Created by: Joshua
  * Created on: March 2026
- * This program do the cookies clicker game 
+ * This program will do the cookie clicker game 
 */
 
 // variables
